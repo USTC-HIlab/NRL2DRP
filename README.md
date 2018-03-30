@@ -1,12 +1,11 @@
 # NRL2DRP
 A novel approach for drug response predictionin cancer cell lines via network representation learning
 
-# Reference
 
-
-======================= Instructions to NRL2DRP 
+================================================= Instructions to NRL2DRP ========================================================
 
 Developer: Jianghong Yang(yjhzqw12@mail.ustc.edu.cn) from Health Informatics Lab, School of Information Science and Technology, University of Science and Technology of China
+==================================================================================================================================
 
 # Requirement:
 MATLAB for Linux R2014a/b or later 
